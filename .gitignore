@@ -1,0 +1,4 @@
+.venvOCR
+.env
+*.jpg
+*.pdf
